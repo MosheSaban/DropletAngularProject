@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropletProject.Server", "DropletProject.Server\DropletProject.Server.csproj", "{14E72292-C12D-46BB-BECB-638A0BE12660}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dropletproject.client", "dropletproject.client\dropletproject.client.esproj", "{A86FBBF0-20C3-4880-B70B-1631434689D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E72292-C12D-46BB-BECB-638A0BE12660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E72292-C12D-46BB-BECB-638A0BE12660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E72292-C12D-46BB-BECB-638A0BE12660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E72292-C12D-46BB-BECB-638A0BE12660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86FBBF0-20C3-4880-B70B-1631434689D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86FBBF0-20C3-4880-B70B-1631434689D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86FBBF0-20C3-4880-B70B-1631434689D2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A86FBBF0-20C3-4880-B70B-1631434689D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86FBBF0-20C3-4880-B70B-1631434689D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86FBBF0-20C3-4880-B70B-1631434689D2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90D5C36E-AB45-4292-9CA8-EA1DEEBFF3C0}
+	EndGlobalSection
+EndGlobal
